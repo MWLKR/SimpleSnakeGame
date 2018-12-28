@@ -42,7 +42,7 @@ Mainkan permainannya dengan menggunakan tombol panah pada keyboard untuk mengger
 
 MIT License
 
-Copyright (c) 2018 MWLKR & Adisatriyo
+Copyright (c) 2018 MWLKR & roynozoa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
