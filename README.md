@@ -2,7 +2,7 @@
 By Hansaka Wijaya & Muhammad Adisatriyo
 * [Description](#description)
 * [Installation](#installation)
-* [How to play](#How_to_Play)
+* [How to play](#how_to_play)
 * [License](#license)
 
 ## Description
@@ -19,6 +19,7 @@ Untuk dapat memainkan Ular Sawah, Anda perlu melakukan hal berikut :
 
 
 ## How to play
+
 ### Tekan tombol apapun untuk mulai permainan
 ![1st](https://user-images.githubusercontent.com/36689886/50505142-9e676000-0aa4-11e9-8ba4-aded6cec012e.png)
 
