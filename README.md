@@ -2,7 +2,7 @@
 By Hansaka Wijaya & Muhammad Adisatriyo
 * [Description](#description)
 * [Installation](#installation)
-* [How to play](#how_to_play)
+* [How to play](#how-to-play)
 * [License](#license)
 
 ## Description
