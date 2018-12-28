@@ -12,7 +12,7 @@ Ular Sawah merupakan sebuah game berbasis C programming yang kami buat secara se
 ## Installation
 System Requirements: Windows
 <br>
-Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
+Untuk dapat memainkan Ular Sawah, Anda perlu melakukan hal berikut :
 1. Mendownload source-code nya terlebih dahulu dengan cara menekan tombol download disamping.
 2. Buka source-code menggunakan C/C++ IDE. Jika Anda tidak memilikinya, [download disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download)
 3. Kemudian, jalankan dengan cara meng-compile UlarSawah.c
